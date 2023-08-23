@@ -18,7 +18,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 
 #Gcam
 PRODUCT_PACKAGES += \
-    GcamPrebuilt
+    
 
 # Elmyra
 #PRODUCT_PACKAGES += \
